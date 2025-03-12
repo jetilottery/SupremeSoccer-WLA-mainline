@@ -1,0 +1,29 @@
+{
+  "urls": [
+    "audio0.mp3",
+    "audio0.m4a",
+    "audio0.ogg"
+  ],
+  "sprite": {
+    "BaseMusicLoop": [
+      0,
+      14117.619047619048
+    ],
+    "BaseMusicLoopTermLose": [
+      15050,
+      1874.9886621315177
+    ],
+    "BaseMusicLoopTermWin": [
+      17099.999999999996,
+      5196.575963718821
+    ],
+    "CrowdLoop": [
+      23150,
+      9199.637188208619
+    ],
+    "GameInit": [
+      33200,
+      7125.011337868479
+    ]
+  }
+}

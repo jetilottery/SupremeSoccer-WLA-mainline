@@ -1,0 +1,98 @@
+{
+    "version": "5-15-2017-4:56pm-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nee",
+        "confirm": "Wil je geluid?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+        "hardCodeRTP": "85.00% to 93.00%"
+    },
+    "title": "Supreme Soccer",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "HOE SPELEN?",
+            "payTable": "Prize Table",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+            "button_autoPlay": "ALLES TONEN",
+            "button_autoPlay_title": "Alles Tonen"
+        },
+        "Commercial":
+        {
+            "howToPlay": "HOE SPELEN?",
+            "payTable": "Prize Table",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+            "button_autoPlay": "ALLES TONEN",
+            "button_autoPlay_title": "Alles Tonen"
+        },
+        "audio":
+        {
+            "on": "On",
+            "off": "Off",
+            "sound": "Sound"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Error:29000\n\n Interne fout gevonden.\nEXIT en het spel opnieuw starten.",
+        "lostConnection": "Verbinding verloren!"
+    },
+    "Game":
+    {
+        "demo": "DEMO ",
+        "button_buy": "KOPEN",
+        "button_try": "DEMO",
+        "button_continue": "DOORGAAN",
+        "button_move2moneyGame": "KOPEN",
+        "button_stop": "STOP",
+        "button_playAgain": "KOPEN",
+        "button_MTMPlayAgain": "DEMO",
+        "button_retry": "OPNIEUW PROBEREN",
+        "wager": "INZET",
+        "meter_wager": "Inzet: ",
+        "balance": "Balance: ",
+        "wins": "Winst: ",
+        "WINS": "WINST",
+        "wins_demo": "Demo: ",
+        "message_nonWin": "Helaas, geen winst.",
+        "message_buyWin": "PROFICIAT!\nJe wint",
+        "message_tryWin": "Een demospel geeft geen enkel recht op een winstbedrag.",
+        "message_anonymousTryWin": "Een demospel geeft geen enkel recht op een winstbedrag.",
+        "message_close": "OK",
+        "button_exit": "VERLATEN",
+        "session_timeout_warning_exit_button": "VERLATEN",
+        "error_button_exit": "VERLATEN",
+        "warning_button_continue": "DOORGAAN",
+        "warning_button_exitGame": "VERLATEN",
+        "warning_title": "WARNING",
+        "error_title": "FOUT",
+        "win_up_to": "WIN TOT",
+        "win_up_to_mark": "!",
+        "tutorial_title": "HOE SPELEN?",
+        "tutorial_00": "Selecteer alle spelerstruitjes in de speelzones 1 tot en met 4. \nWanneer een speelzone drie identieke bedragen bevat, dan win je dat bedrag één keer.",
+        "tutorial_01": "In de speelvakjes kunnen één of meerdere voetballen verschijnen. \nVind drie voetballen en speel een extra spel!",
+        "tutorial_02": "In het extra spel selecteer je de {S01} van jouw keuze, om zo {B01} of {X01} te ontdekken. {n} Elke {B01} die je ontdekt, doet je winstbedrag stijgen. {n} Het extra spel wordt beëindigd zodra je drie {X01} hebt ontdekt.",
+        "win_mark": ":",
+        "bonusIntro": "Ontdek één of meerdere {B01} -symbolen en win! {n} Het extra spel wordt beëindigd zodra je drie {X01} hebt ontdekt.",
+        "go": "GOAL!",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "paytableWager": "Ticket Cost: ",
+        "prizeDescription": "Description",
+        "winBoxError": "FOUT: 29000"
+    }
+}

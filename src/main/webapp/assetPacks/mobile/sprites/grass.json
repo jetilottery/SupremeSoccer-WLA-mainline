@@ -1,0 +1,20 @@
+{"frames": {
+
+"Grass.png":
+{
+	"frame": {"x":1,"y":1,"w":694,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":694,"h":36},
+	"sourceSize": {"w":694,"h":36}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "grass.png",
+	"format": "RGBA8888",
+	"size": {"w":696,"h":38},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:39de18e578de7fea98d9c0521df4373f:96847999ae5a297e15f91b05b08602c1:b5eff027e4675af447e0c9c1b13dff5b$"
+}
+}

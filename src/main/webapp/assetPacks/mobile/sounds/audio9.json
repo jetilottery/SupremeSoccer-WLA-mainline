@@ -1,0 +1,13 @@
+{
+  "urls": [
+    "audio9.mp3",
+    "audio9.m4a",
+    "audio9.ogg"
+  ],
+  "sprite": {
+    "PlaqueWins": [
+      0,
+      6465.487528344672
+    ]
+  }
+}

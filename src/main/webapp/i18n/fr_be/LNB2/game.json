@@ -1,0 +1,98 @@
+{
+    "version": "5-15-2017-4:56pm-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Voulez-vous du son ?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+        "hardCodeRTP": "85.00% to 93.00%"
+    },
+    "title": "Supreme Soccer",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "COMMENT JOUER ?",
+            "payTable": "Prize Table",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+            "button_autoPlay": "TOUT RÉVÉLER",
+            "button_autoPlay_title": "Tout Révéler"
+        },
+        "Commercial":
+        {
+            "howToPlay": "COMMENT JOUER ?",
+            "payTable": "Prize Table",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+            "button_autoPlay": "TOUT RÉVÉLER",
+            "button_autoPlay_title": "Tout Révéler"
+        },
+        "audio":
+        {
+            "on": "On",
+            "off": "Off",
+            "sound": "Sound"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Error:29000\n\nErreur interne détectée.\nEXIT et relancer le jeu.",
+        "lostConnection": "Connection perdue !"
+    },
+    "Game":
+    {
+        "demo": "DÉMO ",
+        "button_buy": "ACHETER",
+        "button_try": "DÉMO ",
+        "button_continue": "CONTINUER",
+        "button_move2moneyGame": "ACHETER",
+        "button_stop": "ARRÊTER",
+        "button_playAgain": "ACHETER",
+        "button_retry": "RÉESSAYER",
+        "button_MTMPlayAgain": "DÉMO",
+        "wager": "MISE",
+        "meter_wager": "Mise : ",
+        "balance": "Balance : ",
+        "wins": "Gain : ",
+        "WINS": "GAIN",
+        "wins_demo": "Démo : ",
+        "message_nonWin": "Dommage, pas de gain.",
+        "message_buyWin": "Bravo !\nVous gagnez",
+        "message_tryWin": "Une démo du jeu ne donne droit à aucun gain.",
+        "message_anonymousTryWin": "Une démo du jeu ne donne droit à aucun gain.",
+        "message_close": "OK",
+        "button_exit": "QUITTER",
+        "session_timeout_warning_exit_button": "QUITTER",
+        "error_button_exit": "QUITTER",
+        "warning_button_continue": "CONTINUER",
+        "warning_button_exitGame": "QUITTER",
+        "warning_title": "WARNING",
+        "error_title": "ERREUR",
+        "win_up_to": "GAGNEZ JUSQU’À",
+        "win_up_to_mark": " !",
+        "tutorial_title": "COMMENT JOUER ?",
+        "tutorial_00": "Sélectionnez tous les maillots dans les zones de jeu de 1 à 4. \nSi une zone de jeu contient 3 montants identiques, vous gagnez ce montant une fois.",
+        "tutorial_01": "Un ou plusieurs ballons peuvent apparaître dans les cases de jeu. \nTrouvez 3 ballons et accédez au jeu extra ! ",
+        "tutorial_02": "Dans le jeu extra, sélectionnez les {S01} de votre choix pour découvrir des {B01} ou des {X01} . {n} Chaque {B01} découvert augmente votre montant de gain. {n} 3 {X01} découverts et le jeu extra se termine.",
+        "win_mark": ":",
+        "bonusIntro": "Découvrez un ou plusieurs symboles {B01} pour gagner ! {n} Après 3 {X01} découverts, le jeu extra se termine.",
+        "go": "GOAL !",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "paytableWager": "Ticket Cost: ",
+        "prizeDescription": "Description",
+        "winBoxError": "ERREUR : 29000"
+    }
+}

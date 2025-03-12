@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "audio7.mp3",
+    "audio7.m4a",
+    "audio7.ogg"
+  ],
+  "sprite": {
+    "HelpPageClose": [
+      0,
+      1496.8707482993198
+    ],
+    "Miss2": [
+      2050,
+      822.9705215419502
+    ]
+  }
+}

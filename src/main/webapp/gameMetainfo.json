@@ -1,0 +1,9 @@
+{
+    "gameVersion": "games-actionJack-standard-1.0.4-r85",
+    "name": "SupremeSoccer",
+    "id": "300-2098-0",
+    "framework": "jet",
+    "version": "1.0.12",
+    "studio": "crdc",
+    "gameClientVersion": "1.0.4"
+}

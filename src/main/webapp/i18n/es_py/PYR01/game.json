@@ -1,0 +1,106 @@
+{
+    "version": "15/05/2017 4:56 p. m.-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Sí",
+        "no": "No",
+        "confirm": "¿Quieres activar el sonido?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% a {@maxRTP}%",
+        "paybackTitle": "Retorno estimado",
+        "paybackBody": "Para este juego, el retorno estimado a largo plazo es del {RTP}.",
+        "hardCodeRTP": "85,00% al 93,00%"
+    },
+    "title": "Golazo Millonario",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Cómo jugar",
+            "payTable": "Tabla de premios",
+            "price": "Precio",
+            "stake": "Apuesta",
+            "balance": "Saldo",
+            "button_autoPlay": "JUGADA AUTOMÁTICA",
+            "button_autoPlay_title": "JUGADA AUTOMÁTICA",
+            "prizeDivision": "División de Premios",
+            "prizeValue": "Valor del Premio",
+            "approximatePrize": "Premios aproximados restantes",
+            "oddsPerPlay": "Probabilidades por jugada",
+            "overAllOdds1": "Hay un 1 en ",
+            "overAllOdds2": " posibilidad global de ganar un premio en cada jugada",
+            "availablePrices": "Precios disponibles:{prices}"
+
+        },
+        "Commercial":
+        {
+            "howToPlay": "Cómo jugar",
+            "payTable": "Tabla de premios",
+            "price": "Precio",
+            "stake": "Apuesta",
+            "balance": "Saldo",
+            "button_autoPlay": "MOSTRAR TODOS",
+            "button_autoPlay_title": "Mostrar todos"
+        },
+        "audio":
+        {
+            "on": "Activar",
+            "off": "Desactivar",
+            "sound": "Sonido"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Error: 29000\n\nSe produjo un error interno.\nHaz clic en SALIR y reinicia el juego.",
+        "lostConnection": "Se ha perdido la conexión!"
+    },
+    "Game":
+    {
+        "demo": "PRUEBA ",
+        "button_buy": "COMPRAR",
+        "button_try": "PRUEBE",
+        "button_continue": "CONTINUAR",
+        "button_move2moneyGame": "JUGAR POR DINERO",
+        "button_stop": "DETENER",
+        "button_playAgain": "JUGAR DE NUEVO",
+        "button_MTMPlayAgain": "INTENTAR DE NUEVO",
+        "button_retry": "REINTENTAR",
+        "wager": "Costo del Ticket ",
+        "meter_wager": "Costo del Ticket : ",
+        "balance": "Saldo: ",
+        "wins": "Premio: ",
+        "WINS": "PREMIOS",
+        "wins_demo": "Premio de Prueba: ",
+        "message_nonWin": "SUERTE LA\nPRÓXIMA VEZ",
+        "message_buyWin": "FELICITACIONES!\nHA GANADO",
+        "message_tryWin": "GRACIAS POR JUGAR!\nPODRÍA HABER GANADO",
+        "message_anonymousTryWin": "GRACIAS POR JUGAR!\nPODRÍA HABER  GANADO",
+        "message_close": "ACEPTAR",
+        "button_exit": "SALIR",
+        "session_timeout_warning_exit_button": "SALIR",
+        "error_button_exit": "SALIR",
+        "warning_button_continue": "CONTINUAR",
+        "warning_button_exitGame": "SALIR",
+        "warning_title": "ADVERTENCIA",
+        "error_title": "ERROR",
+        "win_up_to": "¡GANE HASTA",
+        "win_up_to_mark": "!",
+        "tutorial_title": "CÓMO JUGAR",
+        "tutorial_00": "Haz clic en cada camiseta para revelar un valor de premio.\nEncuentra 3 valores de premio idénticos en la misma fila para ganar.",
+        "tutorial_01": "Los valores de premio contienen de 0 a 2 pelotas de fútbol.\n¡Encuentra 3 pelotas de fútbol para activar una ronda de bonificación!",
+        "tutorial_02": "En la ronda de bonificación, {n} elige los {S01} para revelar {B01} o {X01}. {n} Cada {B01} aumenta el valor del premio. {n} 3 {X01} terminan la ronda.",
+        "win_mark": ":",
+        "bonusIntro": "¡Encuentra al menos un símbolo {B01} para ganar! {n} Si encuentras 3 símbolos {X01} la ronda de bonificación de premios instantáneos terminará.",
+        "go": "¡GOL!",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Nivel de premio",
+        "prizeValue": "Valor de premio",
+        "paytableWager": "Costo del Ticket: ",
+        "prizeDescription": "Descripción",
+        "winBoxError": "Error: 29000\n\nSe produjo un error interno.\nHaz clic en SALIR y reinicia el juego."
+    }
+}

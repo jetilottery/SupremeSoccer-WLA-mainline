@@ -1,0 +1,9 @@
+{
+    "paytableShow_OddsPerTier": true,
+    "paytable_AdditionalText": "",
+    "paytable_Links": "",
+    "showTutorialAtBeginning": true,
+    "showResultScreen": true,
+    "suppressNonWinResultPlaque": false,
+    "consoleEnabledDuringPlay": true
+}

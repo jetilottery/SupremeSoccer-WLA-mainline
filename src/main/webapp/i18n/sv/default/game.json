@@ -1,0 +1,86 @@
+{
+  "version": "5-15-2017-4:56pm-SM-defaut_01",
+  "audioLoader": {
+    "yes": "Ja",
+    "no": "Nej",
+    "confirm": "Vill du ha ljud?"
+  },
+  "Paytable": {
+    "RTPvalue": "{@minRTP} %",
+    "RTPrange": "{@minRTP} % till {@maxRTP} %",
+    "paybackTitle": "Förväntad återbetalning",
+    "paybackBody": "För det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}.",
+    "hardCodeRTP": "85,00 % till 93,00 %"
+  },
+  "title": "Supreme Soccer",
+  "MenuCommand": {
+    "WLA": {
+      "howToPlay": "Så här spelar du",
+      "payTable": "Pristabell",
+      "price": "Pris",
+      "stake": "Insats",
+      "balance": "Saldo",
+      "button_autoPlay": "AUTOSPEL",
+      "button_autoPlay_title": "Autospel"
+    },
+    "Commercial": {
+      "howToPlay": "Så här spelar du",
+      "payTable": "Vinsttabell",
+      "price": "Pris",
+      "stake": "Insats",
+      "balance": "Saldo",
+      "button_autoPlay": "AVSLÖJA ALLA",
+      "button_autoPlay_title": "Avslöja alla"
+    },
+    "audio": {
+      "on": "På",
+      "off": "Av",
+      "sound": "Ljud"
+    }
+  },
+  "Error": {},
+  "Game": {
+    "demo": "TESTA",
+    "button_buy": "KÖP",
+    "button_try": "TESTA",
+    "button_continue": "FORTSÄTT",
+    "button_move2moneyGame": "FLYTTA TILL PENGAR",
+    "button_stop": "STOPP",
+    "button_playAgain": "SPELA IGEN",
+    "button_MTMPlayAgain": "FÖRSÖK IGEN",
+    "wager": "LOTTKOSTNAD",
+    "meter_wager": "Lottkostnad: ",
+    "balance": "Saldo: ",
+    "wins": "Vinst: ",
+    "WINS": "VINST",
+    "wins_demo": "Demovinst: ",
+    "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+    "message_buyWin": "GRATTIS!\nDu har vunnit",
+    "message_tryWin": "TACK FÖR ATT DU SPELADE!\nDu kunde ha vunnit",
+    "message_anonymousTryWin": "TACK FÖR ATT DU SPELADE!\nDu kunde ha vunnit",
+    "message_close": "OK",
+    "button_exit": "LÄMNA",
+    "session_timeout_warning_exit_button": "LÄMNA",
+    "error_button_exit": "LÄMNA",
+    "warning_button_continue": "FORTSÄTT",
+    "warning_button_exitGame": "LÄMNA",
+    "warning_title": "VARNING",
+    "error_title": "FEL",
+    "win_up_to": "VINN UPP TILL",
+    "win_up_to_mark": "!",
+    "tutorial_title": "SÅ HÄR SPELAR DU",
+    "tutorial_00": "Klicka på varje matchtröja för att avslöja ett prisvärde.\nHitta 3 identiska prisvärden i rad för att vinna.",
+    "tutorial_01": "Prisvärdena innehåller 0 till 2 fotbollar.\nHitta 3 fotbollar för att aktivera en bonusrunda!",
+    "tutorial_02": "I bonusrundan {n} väljer du {S01} för att avslöja {B01} eller {X01} . {n} Alla {B01} ökar vinstvärdet. {n} 3 {X01} avslutar rundan.",
+    "win_mark": ":",
+    "bonusIntro": "Hitta en {B01}-symbol för att vinna! {n} Hitta 3 {X01}-symboler så avslutas direktvinstbonusrundan.",
+    "go": "MÅL!",
+    "meter_division": " | ",
+    "buttonClose": "X",
+    "prizeLevel": "Vinstnivå",
+    "prizeValue": "Prisvärde",
+    "paytableWager": "Lottkostnad: ",
+    "prizeDescription": "Beskrivning",
+	"winBoxError": "29000"
+  }
+}

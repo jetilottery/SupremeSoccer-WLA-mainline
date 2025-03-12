@@ -1,0 +1,95 @@
+{
+    "version": "5-15-2017-4:56pm-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nein",
+        "confirm": "Möchten Sie den Ton einschalten?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "{@minRTP} % bis {@maxRTP} %",
+        "paybackTitle": "Erwarteter Gewinn",
+        "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}.",
+        "hardCodeRTP": "85,00% bis 93,00%"
+    },
+    "title": "Supreme Soccer",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Anleitung",
+            "payTable": "Gewinntabelle",
+            "price": "Preis",
+            "stake": "Einsatz",
+            "balance": "Guthaben",
+            "button_autoPlay": "AUTO PLAY",
+            "button_autoPlay_title": "Auto Play"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Anleitung",
+            "payTable": "Auszahlungstabelle",
+            "price": "Preis",
+            "stake": "Einsatz",
+            "balance": "Guthaben",
+            "button_autoPlay": "ALLE ZEIGEN",
+            "button_autoPlay_title": "Alle zeigen"
+        },
+        "audio":
+        {
+            "on": "An",
+            "off": "Aus",
+            "sound": "Ton"
+        }
+    },
+    "Error":
+    {},
+    "Game":
+    {
+        "demo": "AUSPROBIEREN",
+        "button_buy": "KAUFEN",
+        "button_try": "AUSPROBIEREN",
+        "button_continue": "WEITER",
+        "button_move2moneyGame": "ZU ECHTGELD WECHSELN",
+        "button_stop": "STOP",
+        "button_playAgain": "ERNEUT SPIELEN",
+        "button_MTMPlayAgain": "ERNEUT PROBIEREN",
+        "button_retry": "WIEDERHOLEN",
+        "wager": "TICKETPREIS",
+        "meter_wager": "Ticketpreis: ",
+        "balance": "Guthaben: ",
+        "wins": "Gewinn: ",
+        "WINS": "GEWINNE",
+        "wins_demo": "Demo-Gewinn: ",
+        "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+        "message_buyWin": "GLÜCKWUNSCH!\r\nSie haben gewonnen",
+        "message_tryWin": "Danke fürs Spielen!\nSie hätten gewinnen können:",
+        "message_anonymousTryWin": "Danke fürs Spielen!\nSie hätten gewinnen können:",
+        "message_close": "OK",
+        "button_exit": "ENDE",
+        "session_timeout_warning_exit_button": "ENDE",
+        "error_button_exit": "ENDE",
+        "warning_button_continue": "WEITER",
+        "warning_button_exitGame": "ENDE",
+        "warning_title": "WARNUNG",
+        "error_title": "FEHLER",
+        "win_up_to": "GEWINNEN SIE BIS ZU",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SPIELANLEITUNG",
+        "tutorial_00": "Klicken Sie auf jedes Trikot, um einen Preiswert anzuzeigen.\nFinden Sie 3 identische Preiswerte in einer Reihe, um zu gewinnen.",
+        "tutorial_01": "Preiswerte enthalten 0 bis 2 Fußbälle.\nFinden Sie 3 Fußbälle, um eine Bonusrunde auszulösen!",
+        "tutorial_02": "Wählen Sie in der Bonusrunde {n} das {S01}, um {B01} oder {X01} anzuzeigen. {n} Jedes {B01} erhöht den Gewinnwert. {n} 3 {X01} beenden die Runde.",
+        "win_mark": ":",
+        "bonusIntro": "Finden Sie ein beliebiges {B01}-Symbol, um zu gewinnen! {n} Finden Sie 3 {X01}-Symbole und die Sofortgewinn-Bonusrunde endet.",
+        "go": "TOR!",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Preisstufe",
+        "prizeValue": "Preiswert",
+        "paytableWager": "Ticketpreis: ",
+        "prizeDescription": "Beschreibung",
+        "winBoxError": "29000"
+    }
+}

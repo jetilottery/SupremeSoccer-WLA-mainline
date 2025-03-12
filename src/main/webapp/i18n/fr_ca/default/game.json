@@ -1,0 +1,95 @@
+﻿{
+    "version": "5-15-2017-4:56pm-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Activer le son?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "{@minRTP}% à {@maxRTP}%",
+        "paybackTitle": "Taux de retour théorique",
+        "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme est de {RTP}.",
+        "hardCodeRTP": "85,00 % à 93,00 %"
+    },
+    "title": "Supreme Soccer",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Comment jouer",
+            "payTable": "Table de paiement",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde",
+            "button_autoPlay": "JEU AUTO",
+            "button_autoPlay_title": "Jeu automatique"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Comment jouer",
+            "payTable": "Table de paiement",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde",
+            "button_autoPlay": "TOUT AFFICHER",
+            "button_autoPlay_title": "Tout afficher"
+        },
+        "audio":
+        {
+            "on": "Activé",
+            "off": "Désactivé",
+            "sound": "Son"
+        }
+    },
+    "Error":
+    {},
+    "Game":
+    {
+        "demo": "ESSAYER",
+        "button_buy": "ACHETER",
+        "button_try": "ESSAYER",
+        "button_continue": "CONTINUER",
+        "button_move2moneyGame": "MODE ARGENT RÉEL",
+        "button_stop": "ARRÊTER",
+        "button_playAgain": "JOUER DE NOUVEAU",
+        "button_MTMPlayAgain": "ESSAYER DE NOUVEAU",
+        "button_retry": "RÉESSAYER",
+        "wager": "COÛT DU BILLET",
+        "meter_wager": "Coût du billet : ",
+        "balance": "Solde : ",
+        "wins": "Gain : ",
+        "WINS": "GAINS",
+        "wins_demo": "Gain fictif : ",
+        "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+        "message_buyWin": "FÉLICITATIONS!\nVous avez gagné",
+        "message_tryWin": "MERCI D’AVOIR JOUÉ!\nVous auriez pu gagner",
+        "message_anonymousTryWin": "MERCI D’AVOIR JOUÉ!\nVous auriez pu gagner",
+        "message_close": "OK",
+        "button_exit": "QUITTER",
+        "session_timeout_warning_exit_button": "QUITTER",
+        "error_button_exit": "QUITTER",
+        "warning_button_continue": "CONTINUER",
+        "warning_button_exitGame": "QUITTER",
+        "warning_title": "AVERTISSEMENT",
+        "error_title": "ERREUR",
+        "win_up_to": "GAGNEZ JUSQU’À",
+        "win_up_to_mark": "!",
+        "tutorial_title": "COMMENT JOUER",
+        "tutorial_00": "Cliquez sur chaque chandail pour découvrir un lot.\nTrouvez trois lots identiques sur une rangée pour gagner.",
+        "tutorial_01": "Les lots contiennent entre zéro et deux ballons de soccer.\nTrouvez trois ballons pour déclencher un jeu boni!",
+        "tutorial_02": "Dans le jeu boni, {n} choisissez des {S01} pour découvrir des {B01} ou des {X01} . Chaque symbole {B01} augmente la valeur du gain. {n} Trois symboles {X01} mettent fin au jeu boni.",
+        "win_mark": ":",
+        "bonusIntro": "Trouvez des symboles {B01} pour gagner! {n} Trois symboles {X01} mettent fin au jeu boni instantané.",
+        "go": "BUT!",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Niveau du lot",
+        "prizeValue": "Valeur du lot",
+        "paytableWager": "Coût du billet : ",
+        "prizeDescription": "Description",
+        "winBoxError": "29000"
+    }
+}

@@ -1,0 +1,97 @@
+{
+    "version": "5-15-2017-4:56pm-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Ja",
+        "no": "Nein",
+        "confirm": "Mit Ton?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% to {@maxRTP}%",
+        "paybackTitle": "Expected Payback",
+        "paybackBody": "For this game, the long-term, theoretically-expected payback is {RTP}.",
+        "hardCodeRTP": "85.00% to 93.00%"
+    },
+    "title": "Supreme Soccer",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "SPIELANLEITUNG",
+            "payTable": "Prize Table",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+            "button_autoPlay": "ALLES AUFDECKEN",
+            "button_autoPlay_title": "Alles Aufdecken"
+        },
+        "Commercial":
+        {
+            "howToPlay": "SPIELANLEITUNG",
+            "payTable": "Prize Table",
+            "price": "Price",
+            "stake": "Stake",
+            "balance": "Balance",
+            "button_autoPlay": "ALLES AUFDECKEN",
+            "button_autoPlay_title": "Alles Aufdecken"
+        },
+        "audio":
+        {
+            "on": "On",
+            "off": "Off",
+            "sound": "Sound"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Fehler:29000\n\nInterner Fehler erfasst.\nEXIT und Neustart des Spiels.",
+        "lostConnection": "Verbindung unterbrochen!"
+    },
+    "Game":
+    {
+        "demo": "DEMO ",
+        "button_buy": "KAUFEN",
+        "button_try": "DEMO ",
+        "button_continue": "WEITER",
+        "button_move2moneyGame": "KAUFEN",
+        "button_stop": "STOPP",
+        "button_playAgain": "KAUFEN",
+        "button_MTMPlayAgain": "DEMO",
+        "wager": "EINSATZ",
+        "meter_wager": "Einsatz: ",
+        "balance": "Balance: ",
+        "wins": "Gewinn: ",
+        "WINS": "GEWINN",
+        "wins_demo": "Demo: ",
+        "message_nonWin": "Schade, kein Gewinn.",
+        "message_buyWin": "Glückwunsch!\nSie gewinnen",
+        "message_tryWin": "Ein Demospiel gibt keinen Anspruch auf Gewinn.",
+        "message_anonymousTryWin": "Ein Demospiel gibt keinen Anspruch auf Gewinn.",
+        "message_close": "OK",
+        "button_exit": "BEENDEN",
+        "session_timeout_warning_exit_button": "BEENDEN",
+        "error_button_exit": "BEENDEN",
+        "warning_button_continue": "WEITER",
+        "warning_button_exitGame": "BEENDEN",
+        "warning_title": "WARNING",
+        "error_title": "FEHLER",
+        "win_up_to": "GEWINNEN SIE BIS ZU",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SPIELANLEITUNG",
+        "tutorial_00": "Wählen Sie alle Trikots in den Spielbereichen 1 bis 4 aus. \nEnthält ein Spielbereich 3 identische Beträge, gewinnen Sie diesen Betrag einmal.",
+        "tutorial_01": "In den Spielkästchen können ein oder mehrere Fußbälle erscheinen. \nFinden Sie 3 Fußbälle, um ein Extra-Spiel zu erhalten.",
+        "tutorial_02": "Wählen Sie im Extra-Spiel die {S01} Ihrer Wahl, um {B01} oder {X01} aufzudecken. {n} Jedes aufgedeckte {B01} erhöht Ihren Gewinnbetrag. {n} Bei 3 aufgedeckten {X01} ist das Extra-Spiel zu Ende.",
+        "win_mark": ":",
+        "bonusIntro": "Entdecken Sie ein oder mehrere {B01} -Symbole und gewinnen Sie! {n} Das Extra-Spiel endet, sobald Sie 3 {X01} aufgedeckt haben.",
+        "go": "TOR !",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Prize Level",
+        "prizeValue": "Prize Value",
+        "paytableWager": "Ticket Cost: ",
+        "prizeDescription": "Description",
+        "winBoxError": "FEHLER: 29000"
+    }
+}

@@ -1,0 +1,105 @@
+﻿{
+    "version": "5-15-2017-4:56pm-SM-defaut_01",
+    "audioLoader":
+    {
+        "yes": "Sim",
+        "no": "Não",
+        "confirm": "Você deseja ativar o som?"
+    },
+    "Paytable":
+    {
+        "RTPvalue": "{@minRTP}%",
+        "RTPrange": "{@minRTP}% a {@maxRTP}%",
+        "paybackTitle": "Retorno Esperado",
+        "paybackBody": "Para este jogo, o retorno esperado teórico de longo prazo é {RTP}.",
+        "hardCodeRTP": "de 85,00% a 93,00%"
+    },
+    "title": "Futebol Supra Sumo",
+    "MenuCommand":
+    {
+        "WLA":
+        {
+            "howToPlay": "Ajuda",
+            "payTable": "Tabela de Prêmios",
+            "price": "Preço",
+            "stake": "Aposta",
+            "balance": "Saldo",
+            "button_autoPlay": "JOGO AUTOMÁTICO",
+            "button_autoPlay_title": "Jogo Automático",
+            "prizeDivision": "Divisão do Prêmio",
+            "prizeValue": "Valor do Prêmio",
+            "approximatePrize": "Prêmios Restantes Aproximadamente",
+            "oddsPerPlay": "Chances por Jogada",
+            "overAllOdds1": "Há uma chance geral de 1 em ",
+            "overAllOdds2": " de ganhar um prêmio em cada jogada.",
+            "availablePrices": "Pontos de preço disponíveis:{prices}"
+        },
+        "Commercial":
+        {
+            "howToPlay": "Ajuda",
+            "payTable": "Tabela de Pagamento",
+            "price": "Preço",
+            "stake": "Aposta",
+            "balance": "Saldo",
+            "button_autoPlay": "REVELAR TUDO",
+            "button_autoPlay_title": "Revelar Tudo"
+        },
+        "audio":
+        {
+            "on": "Ativado",
+            "off": "Desativado",
+            "sound": "Som"
+        }
+    },
+    "Error":
+    {
+        "error29000": "Erro: 29000\n\nOcorreu um erro interno.\nSaia do jogo e reinicie novamente.",
+        "lostConnection": "Conexão perdida!"
+    },
+    "Game":
+    {
+        "demo": "TENTAR ",
+        "button_buy": "COMPRAR",
+        "button_try": "TENTAR",
+        "button_continue": "CONTINUAR",
+        "button_move2moneyGame": "PASSAR PARA DINHEIRO",
+        "button_stop": "PARAR",
+        "button_playAgain": "JOGAR NOVAMENTE",
+        "button_MTMPlayAgain": "TENTAR NOVAMENTE",
+        "button_retry": "TENTAR NOVAMENTE",
+        "wager": "VALOR DA APOSTA",
+        "meter_wager": "Valor da aposta: ",
+        "balance": "Saldo: ",
+        "wins": "Prêmio: ",
+        "WINS": "PRÊMIOS",
+        "wins_demo": "Prêmio da Demonstração: ",
+        "message_nonWin": "MAIS SORTE\nNA PRÓXIMA VEZ",
+        "message_buyWin": "PARABÉNS!\nVocê ganhou",
+        "message_tryWin": "OBRIGADO POR JOGAR!\nVocê poderia ter ganho",
+        "message_anonymousTryWin": "OBRIGADO POR JOGAR!\nVocê poderia ter ganho",
+        "message_close": "OK",
+        "button_exit": "SAIR",
+        "session_timeout_warning_exit_button": "SAIR",
+        "error_button_exit": "SAIR",
+        "warning_button_continue": "CONTINUAR",
+        "warning_button_exitGame": "SAIR",
+        "warning_title": "AVISO",
+        "error_title": "ERRO",
+        "win_up_to": "GANHE ATÉ",
+        "win_up_to_mark": "!",
+        "tutorial_title": "COMO JOGAR",
+        "tutorial_00": "Clique em cada camisa para revelar um valor do prêmio.\nEncontre 3 valores de prêmio iguais em uma linha para ganhar.",
+        "tutorial_01": "Os valores dos prêmios contêm de 0 a 2 bolas de futebol.\nEncontre 3 bolas de futebol para ativar a rodada bônus!",
+        "tutorial_02": "Na rodada bônus, {n} escolha {S01} para revelar {B01} ou {X01}. {n} Cada {B01} aumenta o valor do prêmio. {n} 3 {X01} encerram a rodada.",
+        "win_mark": ":",
+        "bonusIntro": "Encontre um símbolo {B01} para ganhar! {n} Encontre 3 símbolos {X01} e a rodada bônus de premiação instantânea termina.",
+        "go": "GOL!",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Nível do Prêmio",
+        "prizeValue": "Valor do Prêmio",
+        "paytableWager": "Valor da aposta: ",
+        "prizeDescription": "Descrição",
+        "winBoxError": "Erro: 29000\n\nOcorreu um erro interno.\nSaia do jogo e reinicie novamente."
+    }
+}
